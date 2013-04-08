@@ -1,0 +1,159 @@
+ 
+    /* kde.ie CSS */
+
+	/* Change log see changelog in document root */
+
+ 
+    /* Main page elements */
+ 
+    body {
+		font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; 
+		color: #4A4A4A; 
+		padding-top: 1.2em;
+		line-height: 1.7em; 
+		background: #F2F2F2;
+	}
+
+    div.maincontent {
+		max-width: 1000px;
+		margin-left: auto; 
+		margin-right: auto;
+		text-align: justify;
+	}
+
+    div.pagecontent {
+		text-align: justify;
+	}
+
+	div.spacer {
+		padding-top:12px;
+	}
+
+	div.bigspacer {
+		padding-top:22px;
+	}
+
+    div.smallspacer {
+		padding-top:3px;
+	}
+
+	div.clear {
+		clear:both;
+	}
+
+	div.contenttext {
+		padding-top: 9px; 
+		padding-bottom: 24px; 
+	}
+
+	div.centre {
+		text-align: center; 
+		width: 100%;
+	}
+
+    /* Menu elements */
+
+    div.menutext {
+		float: left;
+		height: 2em;
+		line-height: 2em; 
+		color: #2F2F2F;
+	}
+
+    div.menutextend{
+		margin-left: 80%; 
+		height: 2em; 
+		line-height: 2em;
+		color: #2F2F2F'
+	}
+
+    div.icon{
+		margin-left: 25px; 
+		margin-right: 5px;
+		float: left;
+	}
+
+    div.iconone{
+		margin-right: 3px;
+ 		float: left;
+	}
+
+	div.screenshot {
+		float: left; 
+		width: 33%;
+		text-align: center; 
+	}
+
+	div.screenshotend {
+		width: 33%;
+		margin-left: 66%;
+		text-align: center; 
+	}	
+
+    /* Font styles */
+    
+    span.headertext {
+		font-size: 24px;
+	}
+
+	span.heading {
+		font-size: 30px;
+		font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; 
+		font-weight: 300;
+	}
+    
+	span.headingsmall {
+		font-size: 24px;
+		font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; 
+		font-weight: 300;
+	}
+
+	span.footer {
+		font-size: 12px;
+		font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; 
+		font-weight: 300;
+	}
+
+	span.li {
+		color: #4A4A4A;
+	}
+
+    /* Images */ 
+    
+    img.logo {
+		width:18px;
+		height:20px;
+		padding-right: 20px;
+	}
+
+    img.icon {
+		width:32px;
+		height:32px;
+		border: 0px;
+	}
+
+    img.smallscreenshot {
+		margin: 0 auto;
+		width:200px;
+		border: 0px;
+	}
+
+	/* Links formatting */
+
+	a.menu:link{color: #4A4A4A;}
+	a.menu:visited{color: #4A4A4A;}
+	a.menu:hover{color: #4A4A4A;}
+	a.menu:hover,a.menu:link,a.menu:visited{text-decoration:none;}
+
+	a:link{color: #235E9A;}
+	a:visited{color: #235E9A;}
+	a:hover{color: #235E9A;}
+	a:hover,a:link,a:visited{text-decoration:none;}
+
+	/* list formatting */
+
+	ul{
+		list-style-type: square;
+		color: #235E9A;
+	}
+
