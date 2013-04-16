@@ -2,7 +2,7 @@
 
 session_start();
 
-$page_title="KDE.ie | Contact | LINX?";
+$page_title="KDE.ie | Links | Nascanna";
 
 include ( "header.php" );
 

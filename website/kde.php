@@ -2,7 +2,7 @@
 
 session_start();
 
-$page_title="KDE.ie | The home of KDE in Ireland | Baile KDE in Eireann";
+$page_title="KDE.ie | The home of KDE in Ireland | Baile KDE in Éirinn";
 
 include ( "header.php" );
 

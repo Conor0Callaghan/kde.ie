@@ -2,7 +2,7 @@
 
 session_start();
 
-$page_title="KDE.ie | Screenshots | Gabháil Scáileáin";
+$page_title="KDE.ie | Screenshots | Taispeántas";
 
 include ( "header.php" );
 

@@ -167,7 +167,7 @@ HTML;
 			      <img src="images/icons/screenie.png" class="icon">
 		    	</div>
 			    <div class="menutext">
-			      Gabháil Scáileáin
+			      Taispeántas
 			    </div>
 				</a>
 
@@ -179,7 +179,7 @@ HTML;
 			      <img src="images/icons/global2.png" class="icon">
 			    </div>
 			    <div class="menutext">
-			      Soláthair
+			      Glac Páirt
 			    </div>
 				</a>
 
@@ -191,7 +191,7 @@ HTML;
 			      <img src="images/icons/links.png" class="icon">
 			    </div>
 			    <div class="menutext">
-			      LINX?
+			      Nascanna
 			    </div>
 				</a>
 
