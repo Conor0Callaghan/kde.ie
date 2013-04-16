@@ -5,7 +5,7 @@ print <<<HTML
 	<span class="heading">Select language</span>
 
 	<div class="contenttext">
-	On this page you can change your language, please click on the link below to change your language
+	On this page you can change your language, please click on the link below to change your language.
 	<br><br>
 
 HTML;
@@ -22,11 +22,11 @@ if ( isset($_GET['language']) )
 	{
 		$_SESSION['language'] = "ie";
 
-		print "Is e gaeilge do chuid teanga anois! Anois, ar ais go dti an <a href='index.php'>leathanach baile!</a><br><br>";
+		print "Is é an Ghaeilge teanga an tsuímh anois! Fill ar an <a href='index.php'>leathanach baile</a>!<br><br>";
 	}
 }
 	
-print "Your current language is English | <a href='language.php?language=ie'>Change to Gaeilge</a>";
+print "Your current language is English | <a href='language.php?language=ie'>Athraigh go Gaeilge</a>";
 
 print <<<HTML
 

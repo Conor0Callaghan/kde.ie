@@ -2,10 +2,10 @@
 
 print <<<HTML
 
-	<span class="heading">Rogha Teanga</span>
+	<span class="heading">Roghnaigh do Theanga</span>
 
 	<div class="contenttext">
-	Ar an leathanach seo, clicail ar na link taobh thiar cun rogha do theanga.
+	Ar an leathanach seo, is féidir do theanga a roghnú.  Cliceáil ar an teanga atá uait thíos.
 
 	<br><br>
 
@@ -23,11 +23,11 @@ if ( isset($_GET['language']) )
 	{
 		$_SESSION['language'] = "ie";
 
-		print "Is e gaeilge do chuid teanga anois! Anois, ar ais go dti an <a href='index.php'>leathanach baile!</a><br><br>";
+		print "Is é an Ghaeilge teanga an tsuímh anois! Fill ar an <a href='index.php'>leathanach baile</a>!<br><br>";
 	}
 }
 	
-print "Is e Gaeilge do chuid teanga | <a href='language.php?language=en'>Switch to English</a>";
+print "As Gaeilge faoi láthair | <a href='language.php?language=en'>Switch to English</a>";
 
 print <<<HTML
 
