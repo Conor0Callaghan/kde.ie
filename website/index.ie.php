@@ -5,19 +5,15 @@ print <<<HTML
 	<span class="heading">Fáilte go dtí KDE.ie</span>
   
 	<div class="contenttext">
-	Fáilte go dtí baile an K Desktop Environment (KDE) in Éireann. Is docha gur taispáinfidh an suíomh seo na buntáistí an deasc KDE. Tá eolas freisin faoi aistriúchán KDE as Gaeilge! 
-	<br><br>
-	Is é mhisean KDE.ie, KDE a chur chun cinn in Oilean Éireann agus taispeain obair na rannpháirtithe agus aistritheoirí i KDE Éireann. 
+	Fáilte go dtí baile an <i>K Desktop Environment (KDE)</i> in Éirinn. Ar an suíomh seo, gheobhaidh tú foramharc ar na buntáistí a bhaineann leis an gcóras ríomhaireachta KDE. Tá eolas anseo maidir leis an aistriúchán Gaeilge freisin! 
+    <br><br>
+	Is é misean KDE.ie ná: KDE a chur chun cinn ar fud na hÉireann, agus suntas a tharraingt ar ghníomhaíochtaí de chuid forbróirí, aistritheoirí agus rannpháirtithe KDE in Éirinn.
 	</div>
-
 	
 	<span class="heading">Cad é KDE?</span>
   
 	<div class="contenttext">	
-		Tá KDE ana comhachtach do gach saigheas de ríomhaire, le gach saighas de córas oibriúcháin, Windows freisin. Bogearraí saor ab ea KDE, éasca le húsáid, le a lán feidhmeanna cairdiúla don úsáideoir i KDE freisin. 
-
-	<b>TRANSLATE: A KDE desktop combines ease of use, powerful functionality, outstanding graphical design and the technical superiority of Unix with the advantages of Free Software.</b>
-
+	Is timpeallacht chumhachtach ghrafach le haghaidh ríomhairí Linux agus Unix é KDE.  Is 'saorbhogearra' é KDE, a sholáthraíonn úsáid an-éasca, feidhmiúlacht nua-aimseartha, dearadh iontach, agus na buntáistí teicniúla go léir a bhaineann le córais oibriúcháin *nix.
 	</div>
 
 HTML;
