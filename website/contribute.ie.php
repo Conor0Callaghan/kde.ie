@@ -5,39 +5,34 @@ print <<<HTML
 	<span class="heading">Glac Páirt</span>
 
 	<div class="contenttext">
-	Is é KDE tionscadal 
-	
-	As KDE is a community led open source project, we are always in need of help, the details below relate to the KDE Ireland project, you can find further information on the KDE global project on their <a href="http://community.kde.org/Getinvolved" target="_blank">get involved</a> page. 
+	Is tionscadal oscailte pobalbhunaithe é KDE, agus bímid ag lorg cabhrach i gcónaí. Baineann na mionsonraí thíos le tionscadal KDE Éireann amháin. Is féidir leat tuilleadh eolais faoin tionscadal domhanda KDE a fháil ón suíomh <a href="http://community.kde.org/Getinvolved" target="_blank">kde.org</a>. 
 	</div>
 
-	<span class="headingsmall">Translation</span>
+	<span class="headingsmall">Aistriúchán</span>
   
 	<div class="contenttext">
-	The translation of KDE (and many other open source applications and projects) into Irish Gaelic happens at Aistriúchán Gaeilge GNU/LINUX. The KDE-ga translation centre can be found on the KDE <a href="http://i18n.kde.org/team-infos.php?teamcode=ga" target="_blank">Irish translation</a> page.
+	Gheobhaidh tú eolas faoin aistriúchán Gaeilge ar leathanach <a href="http://i18n.kde.org/team-infos.php?teamcode=ga" target="_blank">fhoireann Ghaeilge KDE</a>.
 	<br>
 	<br>	
-	The current status of the Irish Gaelic translation can be seen on its <a href="http://i18n.kde.org/stats/gui/trunk-kde4/team/" target="_blank">statistics</a> page. In particular, the KDE libraries and base packages are 59% and 60% translated respectively as of January 5th 2005. Any strings that have not been translated appear in English by default.
+	Soláthraíonn KDE staitisticí maidir le stádas an aistriúchán ar <a href="http://i18n.kde.org/stats/gui/stable-kde4/team/ga/" target="_blank">an leathanach seo</a>. Mar a fheicfidh tú, tá croí an chórais (kdelibs agus kde-runtime) aistrithe go hiomlán, chomh maith le go leor feidhmchlár eile. Aon teachtaireacht nach raibh aistrithe, is é i mBéarla a bheidh sé de réir réamhshocraithe.
 	<br>
 	<br>
-	The KDE-ga translation team is headed by Séamus Ó Ciardhuáin (Seamus.OCiardhuain@lit.ie) and includes Kevin Patrick Scannell (scannell@slu.edu)
-	<br><br>
-	More information on the KDE-ga translation can be found from the links above or by contacting the Aistriúchán Gaeilge <a href="http://lists.sourceforge.net/mailman/listinfo/gaeilge-gnulinux" target="_blank">mailing list</a>.
+	Is é Kevin Scannell (kscanne@gmail.com) atá i gceannas ar an bhfoireann aistriúcháin faoi láthair.  Rinne beirt eile aistriúcháin san am atá caite: Sean Kelley agus Séamus Ó Ciardhuáin.
 	</div>
 
-	<span class="headingsmall">Help Wanted</span>
+	<span class="headingsmall">Cabhraigh Linn!</span>
 
 	<div class="contenttext">
-	The KDE-ga translation team is looking for native Irish speakers to help with the translation of KDE into Irish. If you are interested or would like more information then please send an e-mail to gaeilge-gnulinux@lists.sourceforge.net.
+    Bíonn géarghá le haistritheoirí againn i gcónaí.  Téigh i dteagmháil le Kevin ag an seoladh thuas má tá suim agat.  Fiú mura bhfuil Gaeilge líofa agat, is féidir cabhrú linn trí phrofléamh, tástáil, agus mar sin de.
 	<br>
 	<br>
-	Resources
+	Acmhainní
 	<ul>
-		<li><span class="li">http://i18n.kde.org/ - the official KDE internationalisation website</span></li>
-		<li><span class="li">http://gaeilge.sourceforge.net/ - Aistriúchán Gaeilge GNU/LINUX, the homepage of GNU/Linux Irish Translation Team</span></li>
-		<li><span class="li">http://lists.sourceforge.net/lists/listinfo/gaeilge-gnulinux - comhrádh fá dtaobh d'aistriúchán go Gaeilge do GNU/Linux, the GNU/Linux Irish translation team's mailing list</span></li>
-		<li><span class="li">http://gaeilge.sourceforge.net/tearmai.html - a list of Irish computer terms</span></li>
-		<li><span class="li">http://i18n.kde.org/stats/gui/HEAD/ga/index.php - the KDE-ga transaltion statistics page</span></li>
-		<li><span class="li">http://i18n.kde.org/teams/index.php?a=i&t=ga - the KDE-ga translators centre on http://i18n.kde.org/</span></li>
+		<li><span class="li">http://i18n.kde.org/ - Suíomh idirnáisiúnta KDE</span></li>
+		<li><span class="li">http://gaeilge.sourceforge.net/ - Aistriúchán Gaeilge GNU/LINUX</span></li>
+		<li><span class="li">http://lists.sourceforge.net/lists/listinfo/gaeilge-gnulinux - liosta ríomhphoist don Tionscadal Aistriúcháin GNU/Linux</span></li>
+		<li><span class="li">http://i18n.kde.org/stats/gui/stable-kde4/team/ga/ - Staitisticí ar dhul chun cinn na foirne aistriúcháin KDE</span></li>
+		<li><span class="li">http://i18n.kde.org/team-infos.php?teamcode=ga - Lárionad an aistriúcháin Ghaeilge ar http://i18n.kde.org/</span></li>
 	</ul>
 	</div>
 
