@@ -5,27 +5,27 @@ print <<<HTML
 	<span class="heading">Teagmháil</span>
   
 	<div class="contenttext">
-	Failte go dtí an leathanach eolas teagmháil, ar an leathanach seo tá eolas faoi na teagmháil i KDE agus na bealachaí is fearr a ceangail le na daoine in san tionscadal.
+	Fáilte romhat! Ar an leathanach seo, gheobhaidh tú amach na bealaí is fearr dul i dteagmháil le foireann KDE agus le daoine eile sa chomhphobal.
 	</div>
 
  
-	<span class="headingsmall">Liosta seoltaí</span>
+	<span class="headingsmall">Liostaí ríomhphoist</span>
 
 	<div class="contenttext">
-	If you require support or help with KDE then you should consider e-mailing the appropriate mailing list for your problem from those available at, further information can be found on the KDE <a href="http://mail.kde.org/" target="_blank">mailing list</a> page. 
+	Is féidir cuidiú a fháil ó KDE trí theachtaireacht a sheoladh chuig ceann de na liostaí ríomhphoist atá againn.  Tá tuilleadh eolais ar fáil ó leathanach na <a href="http://mail.kde.org/" target="_blank">liostaí ríomhphoist</a>. 
 	</div>	
 
 
-	<span class="headingsmall">IRC comhrá</span>
+	<span class="headingsmall">Comhrá IRC</span>
 
 	<div class="contenttext">
-	Cun seomra comhrá KDE ar IRC a usáid, tá ort logáil isteach i freastalaí irc.freenode.net le do cliaint IRC is fearr no usáid web comhrá cun caint ar an bealach. Is é  <a href="http://webchat.freenode.net/" target="_blank">Freenode web comhrá</a> an slí is easca a husáid le caint ar an bealach, cuir isteach #kde in san bosca bealach.  
+	Chun seomra comhrá KDE ar IRC a úsáid, ní mór duit logáil isteach i bhfreastalaí irc.freenode.net leis an gcliant IRC is fearr leat nó comhrá Gréasáin, agus páirt a ghlacadh ar an gcainéal #kde. Is é  <a href="http://webchat.freenode.net/" target="_blank">Freenode</a> an tslí is éasca é seo a dhéanamh, trí #kde a chur isteach mar chainéal.
 	</div>
 
-	<span class="headingsmall">Tír agus réigiúin eile</span>
+	<span class="headingsmall">Tíortha agus réigiúin eile</span>
 
 	<div class="contenttext">
-	Tá liosta de gach ceann de na ionadíoch agus na teagmáilí don tionscadal KDE  ar an leathanach <a href="http://www.kde.org/contact/representatives.php" target="blank">ionadíoch KDE</a>.
+	Ar an leathanach <a href="http://www.kde.org/contact/representatives.php" target="blank">Ionadaithe KDE</a>, gheobhaidh tú liosta de na hionadaithe KDE go léir, agus preasoifigigh i dtíortha agus i réigiúin éagsúla.
 	</div>
 
 HTML;
