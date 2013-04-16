@@ -14,7 +14,7 @@ print <<<HTML
 	Gheobhaidh tú eolas faoin aistriúchán Gaeilge ar leathanach <a href="http://i18n.kde.org/team-infos.php?teamcode=ga" target="_blank">fhoireann Ghaeilge KDE</a>.
 	<br>
 	<br>	
-	Soláthraíonn KDE staitisticí maidir le stádas an aistriúchán ar <a href="http://i18n.kde.org/stats/gui/stable-kde4/team/ga/" target="_blank">an leathanach seo</a>. Mar a fheicfidh tú, tá croí an chórais (kdelibs agus kde-runtime) aistrithe go hiomlán, chomh maith le go leor feidhmchlár eile. Aon teachtaireacht nach raibh aistrithe, is é i mBéarla a bheidh sé de réir réamhshocraithe.
+	Soláthraíonn KDE staitisticí maidir le stádas an aistriúcháin ar <a href="http://i18n.kde.org/stats/gui/stable-kde4/team/ga/" target="_blank">an leathanach seo</a>. Mar a fheicfidh tú, tá croí an chórais (kdelibs agus kde-runtime) aistrithe go hiomlán, chomh maith le go leor feidhmchlár eile. Aon teachtaireacht nach raibh aistrithe, is é i mBéarla a bheidh sé de réir réamhshocraithe.
 	<br>
 	<br>
 	Is é Kevin Scannell (kscanne@gmail.com) atá i gceannas ar an bhfoireann aistriúcháin faoi láthair.  Rinne beirt eile aistriúcháin san am atá caite: Sean Kelley agus Séamus Ó Ciardhuáin.
