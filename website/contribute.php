@@ -2,7 +2,7 @@
 
 session_start();
 
-$page_title="KDE.ie | Contribute | Soláthair";
+$page_title="KDE.ie | Contribute | Glac Páirt";
 
 include ( "header.php" );
 
