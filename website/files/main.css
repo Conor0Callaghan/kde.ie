@@ -64,8 +64,8 @@
 		margin-left: 80%; 
 		height: 2em; 
 		line-height: 2em;
-		color: #2F2F2F'
-	}
+		color: #2F2F2F';
+    }
 
     div.icon{
 		margin-left: 25px; 
@@ -137,6 +137,12 @@
 		width:250px;
 		border: 0px;
 	}
+
+img.cm { 
+	width: 40px; 
+	height: 40px; 
+}
+
 
 	/* Links formatting */
 

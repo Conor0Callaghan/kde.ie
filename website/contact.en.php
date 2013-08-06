@@ -20,8 +20,6 @@ print <<<HTML
 
 	<div class="contenttext">
 	To access the KDE Internet Relay Chat room you may logon to the irc.freenode.net server using your favourite IRC client or webchat and join the #kde channel. The easiest way to do this is to use the <a href="http://webchat.freenode.net/" target="_blank">Freenode webchat</a>, entering #kde as the channel.
-
-	MORE CONTACT INFO>>>>>>>>>>>>>>>>>>>>
 	</div>
 
 

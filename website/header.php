@@ -39,7 +39,7 @@ print <<<HTML
 
   <style type="text/css">
 	@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300);
-    @import url('files/main.css');
+    	@import url('files/main.css');
 	@import url('files/lightbox.css');
   </style>
   
