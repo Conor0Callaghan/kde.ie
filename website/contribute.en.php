@@ -11,9 +11,8 @@ print <<<HTML
 	<span class="headingsmall">Social Media</span>
 
 	<div class="contenttext">
-	If you would like to spread the word about our site on social media, we would really appreciate your help. You can click on the icons below to promote our sites. You can also click on the links in the footer of the page to help out.  
+	If you would like to spread the word about our site on social media, we would really appreciate your help. You can click on the Google+ icon below to promote our site. You can also click on the Google+ button on bottom of any page.  
 	<br><br>
-	<a href="https://www.facebook.com/pages/KDE-Ireland/147864812055556?fref=ts"><img src="images/icons/fbook.png" alt="Facebook logo" class="cm" border="0"></a>
 	<a href="https://plus.google.com/share?url=http://www.kde.ie" >
     		<img src="images/icons/gplus.png" class="cm" alt="Google+" title="Google+"/>
 	</a>
