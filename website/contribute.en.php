@@ -8,16 +8,6 @@ print <<<HTML
 	As KDE is a community led open source project, we are always in need of help, the details below relate to the KDE Ireland project, you can find further information on the KDE global project on their <a href="http://community.kde.org/Getinvolved" target="_blank">get involved</a> page. 
 	</div>
 
-	<span class="headingsmall">Social Media</span>
-
-	<div class="contenttext">
-	If you would like to spread the word about our site on social media, we would really appreciate your help. You can click on the Google+ icon below to promote our site. You can also click on the Google+ button on bottom of any page.  
-	<br><br>
-	<a href="https://plus.google.com/share?url=http://www.kde.ie" >
-    		<img src="images/icons/gplus.png" class="cm" alt="Google+" title="Google+"/>
-	</a>
-	</div>
-
 	<span class="headingsmall">Translation</span>
   
 	<div class="contenttext">
