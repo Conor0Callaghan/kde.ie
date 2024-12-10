@@ -75,8 +75,8 @@ print <<<HTML
 
 	</div>
 	
-<script src="js/jquery-1.7.2.min.js"></script>
-<script src="js/jquery-ui-1.8.18.custom.min.js"></script>
+<script src="js/jquery-3.7.1.min.js"></script>
+<script src="js/jquery-ui.min.js"></script>
 <script src="js/jquery.smooth-scroll.min.js"></script>
 <script src="js/lightbox.js"></script>
 
