@@ -10,6 +10,9 @@ print <<<HTML
 
 HTML;
 
+if (session_id() == "")
+  session_start();
+
 if ( isset($_GET['language']) )
 {
 	if ( $_GET['language'] == "en" )

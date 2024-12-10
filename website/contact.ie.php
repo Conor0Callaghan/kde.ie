@@ -19,13 +19,7 @@ print <<<HTML
 	<span class="headingsmall">Comhrá IRC</span>
 
 	<div class="contenttext">
-	Chun seomra comhrá KDE ar IRC a úsáid, ní mór duit logáil isteach i bhfreastalaí irc.freenode.net leis an gcliant IRC is fearr leat nó comhrá Gréasáin, agus páirt a ghlacadh ar an gcainéal #kde. Is é  <a href="http://webchat.freenode.net/" target="_blank">Freenode</a> an tslí is éasca é seo a dhéanamh, trí #kde a chur isteach mar chainéal.
-	</div>
-
-	<span class="headingsmall">Tíortha agus réigiúin eile</span>
-
-	<div class="contenttext">
-	Ar an leathanach <a href="http://www.kde.org/contact/representatives.php" target="blank">Ionadaithe KDE</a>, gheobhaidh tú liosta de na hionadaithe KDE go léir, agus preasoifigigh i dtíortha agus i réigiúin éagsúla.
+	Chun seomra comhrá KDE ar IRC a úsáid, ní mór duit logáil isteach i bhfreastalaí https://libera.chat/ leis an gcliant IRC is fearr leat nó comhrá Gréasáin, agus páirt a ghlacadh ar an gcainéal #kde. Is é  <a href="https://libera.chat/" target="_blank">Libera</a> an tslí is éasca é seo a dhéanamh, trí #kde a chur isteach mar chainéal. Tá níos mó eolas le fháil ar an leathanach <a href="https://userbase.kde.org/IRC_Channels" target="_blank">KDE IRC</a>. 
 	</div>
 
 HTML;

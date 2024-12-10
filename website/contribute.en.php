@@ -14,7 +14,7 @@ print <<<HTML
 	The KDE-ga translation centre can be found on the KDE <a href="http://i18n.kde.org/team-infos.php?teamcode=ga" target="_blank">Irish translation</a> page.
 	<br>
 	<br>	
-	The current status of the Irish Gaelic translation can be seen on its <a href="http://i18n.kde.org/stats/gui/stable-kde4/team/ga/" target="_blank">statistics</a> page. As you will see, the core libraries (kdelibs and kde-runtime) are completely translated, along with many other applications. Any strings that have not been translated appear in English by default.
+	The current status of the Irish Gaelic translation can be seen on its <a href="https://l10n.kde.org/stats/gui/trunk-kf6/team/ga/" target="_blank">statistics</a> page. As you will see, the core libraries (kdelibs and kde-runtime) are completely translated, along with many other applications. Any strings that have not been translated appear in English by default.
 	<br>
 	<br>
 	The KDE-ga translation team is headed by Kevin Scannell (kscanne@gmail.com).  Past contributors include Sean Kelley and Séamus Ó Ciardhuáin.
@@ -29,10 +29,7 @@ print <<<HTML
 	Resources
 	<ul>
 		<li><span class="li">http://i18n.kde.org/ - the official KDE internationalisation website</span></li>
-		<li><span class="li">http://gaeilge.sourceforge.net/ - Aistriúchán Gaeilge GNU/Linux, the homepage of GNU/Linux Irish Translation Team</span></li>
 		<li><span class="li">http://lists.sourceforge.net/lists/listinfo/gaeilge-gnulinux - the GNU/Linux Irish translation team's mailing list</span></li>
-		<li><span class="li">http://i18n.kde.org/stats/gui/stable-kde4/team/ga/ - the KDE-ga transaltion statistics page</span></li>
-		<li><span class="li">http://i18n.kde.org/team-infos.php?teamcode=ga - the KDE-ga translators centre on http://i18n.kde.org/</span></li>
 	</ul>
 	</div>
 

@@ -31,6 +31,8 @@ print <<<HTML
  	
 <link rel="shortcut icon" href="images/kde.ico"><link rel="icon" href="images/kde.ico">
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.3/gh-fork-ribbon.min.css" />
+
 HTML;
 
 print "<title>$page_title</title>";
@@ -49,7 +51,7 @@ print <<<HTML
 
 <div class="maincontent">
 
-<a href="https://github.com/ivernus/kde.ie"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/e7bbb0521b397edbd5fe43e7f760759336b5e05f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677265656e5f3030373230302e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_green_007200.png"></a>
+<a class="github-fork-ribbon" href="https://github.com/Conor0Callaghan/kde.ie" data-ribbon="Fork me on GitHub" title="Fork me on GitHub">Fork me on GitHub</a>
 
 HTML;
 
